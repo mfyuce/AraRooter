@@ -9,5 +9,5 @@
 
 rootProject.name = 'AraRooter'
 
-include 'libsvm'
+//include 'libsvm'
 include 'AraRooter'
